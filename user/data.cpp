@@ -14,8 +14,8 @@ Data::Data(){
   library_amount = new int(0);
   rent_book_amount = new int(0);
 
-  can_enter = new bool(false);
 
+  can_enter = new bool(false);
   buy_book_choice = new int;
   library_choice = new int;
   rent_book_choice = new int;
@@ -26,14 +26,17 @@ Data::Data(){
 Data::~Data(){
   delete username;
   delete password;
+
+  delete choosen_library_name;
+
   delete user_amount;
   delete library_amount;
   delete book_amount;
+  delete rent_book_amount;
+
   delete library_choice;
   delete rent_book_choice;
   delete buy_book_choice;
-  delete library_choice;
-  delete rent_book_choice;
   delete user_menu_choice;
   delete can_enter;
 
