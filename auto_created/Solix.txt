@@ -4,7 +4,7 @@
 
 1. Book Name     : Whispers Between Worlds
 1. Book Date     : 2022-11-17
-1. Book Category : Science Fiction
+1. Book Category : Science 
 1. Book Price    : 61.75
 1. Book Page     : 412
 1. Book Author   : Kael Dorian
@@ -25,14 +25,14 @@
 /-/
 4. Book Name     : Dust Over Eden
 4. Book Date     : 2016-10-22
-4. Book Category : Post-Apocalyptic
+4. Book Category : Apocalyptic
 4. Book Price    : 39.00
 4. Book Page     : 312
 4. Book Author   : Livia Storm
 /-/
 5. Book Name     : Symphony of Ashes
 5. Book Date     : 2020-03-19
-5. Book Category : Psychological Thriller
+5. Book Category : Thriller
 5. Book Price    : 63.45
 5. Book Page     : 425
 5. Book Author   : Marcus Vell
