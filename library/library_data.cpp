@@ -27,7 +27,7 @@ LibraryData::LibraryData(){
   menu_choice = new int;
   deleter_choice = new int;
   book_updater_choice = new int;
-  updated_price = new int;
+  updated_price = new double;
 
 }
 
@@ -60,3 +60,4 @@ LibraryData::~LibraryData(){
   delete can_sign_in;
 
 }
+
