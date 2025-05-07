@@ -1,0 +1,46 @@
+## 📚 This file is automatically created with your library name.
+## 🛠 You can modify it after signing in to your library account.
+## ⚠️ THIS IS AN EXAMPLE FILE. NOT REAL DATA.
+
+1. Book Name     : Whispers Between Worlds
+1. Book Date     : 2022-11-17
+1. Book Category : Science Fiction
+1. Book Price    : 61.75
+1. Book Page     : 412
+1. Book Author   : Kael Dorian
+/-/
+2. Book Name     : The Velvet Horizon
+2. Book Date     : 2018-06-03
+2. Book Category : Historical
+2. Book Price    : 47.20
+2. Book Page     : 359
+2. Book Author   : Elise Marlowe
+/-/
+3. Book Name     : Binary Soul
+3. Book Date     : 2021-01-14
+3. Book Category : Cyberpunk
+3. Book Price    : 54.90
+3. Book Page     : 398
+3. Book Author   : Jaxon Ryker
+/-/
+4. Book Name     : Dust Over Eden
+4. Book Date     : 2016-10-22
+4. Book Category : Post-Apocalyptic
+4. Book Price    : 39.00
+4. Book Page     : 312
+4. Book Author   : Livia Storm
+/-/
+5. Book Name     : Symphony of Ashes
+5. Book Date     : 2020-03-19
+5. Book Category : Psychological Thriller
+5. Book Price    : 63.45
+5. Book Page     : 425
+5. Book Author   : Marcus Vell
+/-/
+6. Book Name     : The Oracle’s Silence
+6. Book Date     : 2019-08-11
+6. Book Category : Mystery
+6. Book Price    : 44.00
+6. Book Page     : 340
+6. Book Author   : Nadia Cross
+/-/
