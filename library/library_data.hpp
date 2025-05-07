@@ -23,7 +23,7 @@ class LibraryData{
     int* book_deleter_amount;
     int* book_updater_amount;
     int* book_updater_choice;
-    int* updated_price;
+    double* updated_price;
 
 
     std::string* book_name;
