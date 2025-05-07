@@ -1,4 +1,6 @@
-##
+## 📚 This file is automatically created with your library or Username.
+## 🛠 You can modify it while give a rate before quiting the app.
+## ⚠️ THIS IS AN EXAMPLE FILE. NOT REAL DATA.
 
 Library Name : popa shongs =  Rate : 9  
 Username     : jonathan     =  Rate : 10  
