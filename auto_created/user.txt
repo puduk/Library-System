@@ -1,3 +1,6 @@
+## 📘 This file is automatically created when your user account is initialized.
+## 🛠️ You can edit it after signing in as a user account.
+## ⚠️ This is a sample file. Data below is fictional and used for demonstration purposes only.
 
 
 1. Username : mert  
