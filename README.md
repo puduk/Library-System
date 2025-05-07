@@ -93,4 +93,80 @@ Around 1% of guidance, idea validation, and logic debugging was assisted by AI.
 ```bash
 g++ -std=c++17 main.cpp -o LibraryApp
 ./LibraryApp
+```
+## First Page
 
+```
+--------------------------------
+1 :: for Sign in User Account
+2 :: for Sign in Library Account
+3 :: for Create User Account
+4 :: for Create Library Account
+5 :: for Exit
+--------------------------------
+```
+
+## Create Library Account
+```
+Library Name : 
+Aurora Central Library
+
+Library Password : 
+123123
+
+Library Owner : 
+Mert Demir
+
+Library Address : 
+1450 Harmony St, Aurora, CO, USA
+
+Library Email : 
+contact@auroralibrary.org
+
+Library Phone : 
++1 (720) 555-0193
+
+Add your first book data.
+```
+
+## Sign In Library Account And Delete Book Data
+```
+Name: 
+Aurora Central Library
+
+Password: 
+123123
+
+Welcome, Aurora Central Library!
+Library system loaded. Book list:
+1. Book Name : The Echoes of Solitude
+1. Book Date : Lysandra
+1. Book Category : Hale
+1. Book Price : 23
+1. Book Page : 23
+1. Book Author : 23
+/-/
+2. Book Name : Whispers Between Worlds
+2. Book Date : 2022-11-17
+2. Book Category : Science Fiction
+2. Book Price : 61.75
+2. Book Page : 412
+2. Book Author : Kael Dorian
+/-/
+
+1 :: for add book 
+2 :: for delete book 
+3 :: for update book price 
+4 :: for showing deleted books
+5 :: Quit
+---------------------------
+2
+Current books.
+1. Book Name : The Echoes of Solitude
+2. Book Name : Whispers Between Worlds
+----------------------------
+Your Choice: 
+2
+Successfully deleted.
+
+```
