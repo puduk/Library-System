@@ -4,7 +4,7 @@
 
 void show_deleted(LibraryData& l){
 
-  std::cout << "Deleted Subjects : " << '\n';
+  std::cout << "Deleted Books : " << '\n';
 
   std::ifstream show_file(*l.library_name + "_removed.txt" , std::ios::in);
   if(!show_file.is_open()){
