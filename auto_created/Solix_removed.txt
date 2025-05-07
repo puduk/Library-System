@@ -5,14 +5,14 @@
 
 1. Book Name     : Glassbound Dreams  
 1. Book Date     : 2017-02-09  
-1. Book Category : Magical Realism  
+1. Book Category : Magical   
 1. Book Price    : 52.80  
 1. Book Page     : 367  
 1. Book Author   : Amira Nyx  
 /-/
 2. Book Name     : Crimson Orbit  
 2. Book Date     : 2023-09-27  
-2. Book Category : Space Opera  
+2. Book Category : Space 
 2. Book Price    : 74.25  
 2. Book Page     : 501  
 2. Book Author   : Orion Vance  
