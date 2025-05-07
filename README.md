@@ -277,7 +277,7 @@ There is no rented book.
 
 ## 🛡 License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](LICENSE)[puduk](https://github.com/puduk).  
 Feel free to use, modify, and share it with proper attribution.
 
 
