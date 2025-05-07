@@ -5,7 +5,7 @@
 
 1. Book Name     : Whispers Between Worlds  
 1. Book Date     : 2022-11-17  
-1. Book Category : Science Fiction  
+1. Book Category : Science  
 1. Book Price    : 61.75  
 1. Book Page     : 412  
 1. Book Author   : Kael Dorian  
@@ -29,7 +29,7 @@
 
 4. Book Name     : Dust Over Eden  
 4. Book Date     : 2016-10-22  
-4. Book Category : Post-Apocalyptic  
+4. Book Category : Apocalyptic  
 4. Book Price    : 39.00  
 4. Book Page     : 312  
 4. Book Author   : Livia Storm  
@@ -37,7 +37,7 @@
 
 5. Book Name     : Symphony of Ashes  
 5. Book Date     : 2020-03-19  
-5. Book Category : Psychological Thriller  
+5. Book Category : Thriller  
 5. Book Price    : 63.45  
 5. Book Page     : 425  
 5. Book Author   : Marcus Vell  
@@ -53,7 +53,7 @@
 
 7. Book Name     : Glassbound Dreams  
 7. Book Date     : 2017-02-09  
-7. Book Category : Magical Realism  
+7. Book Category : Realism  
 7. Book Price    : 52.80  
 7. Book Page     : 367  
 7. Book Author   : Amira Nyx  
@@ -61,7 +61,7 @@
 
 8. Book Name     : Crimson Orbit  
 8. Book Date     : 2023-09-27  
-8. Book Category : Space Opera  
+8. Book Category : Space 
 8. Book Price    : 74.25  
 8. Book Page     : 501  
 8. Book Author   : Orion Vance  
@@ -69,7 +69,7 @@
 
 9. Book Name     : Aetherium Veil  
 9. Book Date     : 2015-12-01  
-9. Book Category : Dark Fantasy  
+9. Book Category : Fantasy  
 9. Book Price    : 58.60  
 9. Book Page     : 446  
 9. Book Author   : Seraphine Vale  
@@ -77,7 +77,7 @@
 
 10. Book Name     : Code of the Forgotten  
 10. Book Date     : 2024-04-12  
-10. Book Category : Techno Thriller  
+10. Book Category : Thriller  
 10. Book Price    : 69.90  
 10. Book Page     : 388  
 10. Book Author   : Declan North  
