@@ -273,4 +273,11 @@ Rent history
 There is no rented book.
 -----------------------------
 ```
+---
+
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and share it with proper attribution.
+
 
