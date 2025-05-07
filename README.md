@@ -148,7 +148,7 @@ Library system loaded. Book list:
 /-/
 2. Book Name : Whispers Between Worlds
 2. Book Date : 2022-11-17
-2. Book Category : Science Fiction
+2. Book Category : Science 
 2. Book Price : 61.75
 2. Book Page : 412
 2. Book Author : Kael Dorian
@@ -176,7 +176,7 @@ Successfully deleted.
 Deleted Subjects : 
 2. Book Name : Whispers Between Worlds
 2. Book Date : 2022-11-17
-2. Book Category : Science Fiction
+2. Book Category : Science 
 2. Book Price : 61.75
 2. Book Page : 412
 2. Book Author : Kael Dorian
