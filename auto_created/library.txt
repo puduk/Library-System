@@ -1,0 +1,51 @@
+## This file will be automaticly updated when you use the app
+
+1. Library Name : Solix
+1. Library Password : solix123
+1. Library Address : 78 Sunset Blvd, Phoenix, AZ
+1. Library Owner : Jordan Miles
+1. Library Email : contact@solixlibrary.org
+1. Library Phone : +1 (602) 555-1728
+/-/
+2. Library Name : Aurora_Central_Library
+2. Library Password : 123123
+2. Library Address : 1450 Harmony St, Aurora, CO, USA
+2. Library Owner : Mert Demir
+2. Library Email : contact@auroralibrary.org
+2. Library Phone : +1
+/-/
+3. Library Name : Silver Oak Library
+3. Library Password : silver123
+3. Library Address : 77 Greenhill Rd, Dublin
+3. Library Owner : Nora Kavanagh
+3. Library Email : contact@silveroak.ie
+3. Library Phone : +353-1-555-2044
+/-/
+4. Library Name : Akira Learning Center
+4. Library Password : akira2025
+4. Library Address : 2-14 Sakura St, Kyoto
+4. Library Owner : Takashi Mori
+4. Library Email : akira@learning.jp
+4. Library Phone : +81-75-555-8899
+/-/
+5. Library Name : Pixel Minds Archive
+5. Library Password : pxmind!
+5. Library Address : 404 Binary Lane, Silicon Valley
+5. Library Owner : Linus Becker
+5. Library Email : info@pixelminds.io
+5. Library Phone : +1 (408) 123-4567
+/-/
+6. Library Name : Çınar Halk Kütüphanesi
+6. Library Password : kitapci123
+6. Library Address : Tunalı Hilmi Cd No:80, Ankara
+6. Library Owner : Ayşenur Demirtaş
+6. Library Email : iletisim@cinarhalk.org.tr
+6. Library Phone : +90 312 444 1234
+/-/
+7. Library Name : Biblioteca Nueva Luz
+7. Library Password : nueva456
+7. Library Address : Calle 45 No. 89, Buenos Aires
+7. Library Owner : Camila Ortega
+7. Library Email : contacto@nuevaluz.ar
+7. Library Phone : +54 11 3217-6543
+/-/
