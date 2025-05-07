@@ -160,6 +160,7 @@ Library system loaded. Book list:
 4 :: for showing deleted books
 5 :: Quit
 ---------------------------
+
 2
 Current books.
 1. Book Name : The Echoes of Solitude
@@ -168,5 +169,108 @@ Current books.
 Your Choice: 
 2
 Successfully deleted.
-
 ```
+## Showing Deleted Books And Updating Price
+```
+4
+Deleted Subjects : 
+2. Book Name : Whispers Between Worlds
+2. Book Date : 2022-11-17
+2. Book Category : Science Fiction
+2. Book Price : 61.75
+2. Book Page : 412
+2. Book Author : Kael Dorian
+/-/
+1 :: for add book 
+2 :: for delete book 
+3 :: for update book price 
+4 :: for showing deleted books
+5 :: Quit
+---------------------------
+
+3
+Current books and prices. 
+--------------------------
+1. Book Name : The Echoes of Solitude
+1. Book Price : 49.50
+--------------------------
+Your choice.
+
+1
+Enter new book price.
+89.90
+Book Price Updated to: 89.9
+```
+## Create User Account ,Sign In And Buying Book
+```
+1 :: for Sign in User Account
+2 :: for Sign in Library Account
+3 :: for Create User Account
+4 :: for Create Library Account
+5 :: for Exit
+--------------------------------
+3
+Create Username : 
+pudukiye
+Create Password : 
+123123
+pudukiye Account Successfully Created
+-----------------------------
+Username ::
+pudukiye
+Password ::
+123123
+Welcome Back: pudukiye
+------------------------------
+Current avaliable libraries:
+1. Library Name : Aurora Central Library
+2. Library Name : Lakeview Knowledge Center
+3. Library Name : Westbrook City Library
+4. Library Name : Northwood Community Library
+5. Library Name : Horizon Bay Library
+6. Library Name : Oakridge Learning Hall
+Which library you want to open?
+1
+-----------------------------
+1 :: for buy book
+2 :: for rent book
+3 :: for purchased history
+4 :: for rented history
+5 :: Quit
+-----------------------------
+Currently Avaliable Books
+1. Book Name : Whispers Between Worlds
+2. Book Name : The Velvet Horizon
+3. Book Name : Binary Soul
+4. Book Name : Dust Over Eden
+5. Book Name : Symphony of Ashes
+6. Book Name : The Oracle’s Silence
+Your Choice:
+3
+Purchase Successful!
+-----------------------------
+```
+
+## Purchased History And Rent History
+```
+3. Book Name : Binary Soul
+3. Book Date : 2021-01-14
+3. Book Category : Cyberpunk
+3. Book Price : 54.90
+3. Book Page : 398
+3. Book Author : Jaxon Ryker
+/-/
+-----------------------------
+1 :: for buy book
+2 :: for rent book
+3 :: for purchased history
+4 :: for rented history
+5 :: Quit
+-----------------------------
+4
+------------------
+Rent history
+There is no rented book.
+-----------------------------
+```
+
