@@ -1,0 +1,26 @@
+
+
+
+1. Book Name     : Echoes of the Deep  
+1. Book Date     : 2020-07-14  
+1. Book Category : Deep-Sea Mystery  
+1. Book Price    : 48.30  
+1. Book Page     : 389  
+1. Book Author   : Marina Crest  
+/-/
+
+2. Book Name     : Neon Mirage  
+2. Book Date     : 2022-02-01  
+2. Book Category : Futuristic Crime  
+2. Book Price    : 59.75  
+2. Book Page     : 410  
+2. Book Author   : Rex Dalton  
+/-/
+
+3. Book Name     : The Ember Scroll  
+3. Book Date     : 2019-11-20  
+3. Book Category : Epic Fantasy  
+3. Book Price    : 66.60  
+3. Book Page     : 534  
+3. Book Author   : Thalia Moreau  
+/-/
