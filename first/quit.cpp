@@ -34,6 +34,7 @@ void quit(FirstData& f ) {
     }
 
     rate_file << "Username : " <<*f.role << " =  Rate : " << *f.rate << "\n";
+    std::cout << "Goodbye! " << *f.role << std::endl;
   }else if(*f.who == 'l') {
     std::cout << "Enter your Library Name : " << '\n';
     std::cin.clear();
@@ -48,7 +49,11 @@ void quit(FirstData& f ) {
     }
 
     rate_file << "Library Name : " <<*f.role << " =  Rate : " << *f.rate << "\n";
+    std::cout << "Goodbye! " << *f.role << std::endl;
   }
+
+
+
 }
 
 
