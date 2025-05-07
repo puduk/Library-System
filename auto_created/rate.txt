@@ -2,7 +2,7 @@
 ## 🛠 You can modify it while give a rate before quiting the app.
 ## ⚠️ THIS IS AN EXAMPLE FILE. NOT REAL DATA.
 
-Library Name : popa shongs =  Rate : 9  
+Library Name : popa shongs  =  Rate : 9  
 Username     : jonathan     =  Rate : 10  
 Username     : pudukiye     =  Rate : 5  
 Library Name : echo keep    =  Rate : 8  
