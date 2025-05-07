@@ -4,7 +4,7 @@
 
 A fully-featured, file-based 📁 library + user ecosystem built entirely in **C++**.  
 ❌ No SQL. No database. Just pure logic, classes, and smart file manipulation with `.txt` files.  
-Built with 💻, 💡 and a lot of 💪 in just **1 month** — completed in **1 single day**.
+💻 — completed in **1 single day** , **12 hours**.
 
 ---
 
@@ -15,6 +15,7 @@ Built with 💻, 💡 and a lot of 💪 in just **1 month** — completed in **1
 - 🔐 Password-protected access
 - 🚫 Duplicate check (no reused names, phones, or emails)
 - 📦 Data saved in `user.txt` and `library.txt`
+- 🔐 All user and library has special `.txt` files
 
 ### 🏢 Library Owner Panel
 - ➕ Add books (with ID, date, category, price, etc.)
@@ -24,15 +25,16 @@ Built with 💻, 💡 and a lot of 💪 in just **1 month** — completed in **1
 - 📄 Each library stored in its own `.txt` (e.g. `mylibrary.txt`)
 
 ### 👤 User Panel
-- 📚 Browse available libraries
 - 💸 Buy books (removed from library file, saved in your `_bought.txt`)
 - 📥 Rent books (added to your `_rent.txt`, not removed)
 - 📜 View buy & rent history in detail
+- 🌱 Planned Features : `searching book` , `showing favorite category` , `etc.`
 
 ### 🧠 File-Based Storage (no DB!)
 - 📄 Uses only `.txt` files to persist all data
 - 🧮 Dynamically calculates book count based on file contents
 - 🧹 Book entries use a clear separator: `/-/`
+- 🆔 All `users`, `libraries`, `books` are stored with `Primary ID`
 
 ### ⭐ Exit Rating System
 - 🙋‍♂️ Ask for feedback when quitting the app
@@ -46,14 +48,13 @@ Built with 💻, 💡 and a lot of 💪 in just **1 month** — completed in **1
 - ✅ Project contains **45+ files** including `.cpp` & `.hpp`
 - 🔁 Data fully preserved between sessions using file I/O
 - ⏱️ Created from scratch in **~12 hours** of focused coding
-- 🎓 Final project for university — built with professional care
+
 
 ---
 
 ## 💻 Tech Stack
 
 - 🚀 **C++** (OOP, Pointers, File Streams, Menus)
-- 🧪 Compiled with g++ / CLion
 - 📟 100% terminal interface
 - 🔁 No third-party libraries
 
@@ -273,7 +274,22 @@ Rent history
 There is no rented book.
 -----------------------------
 ```
+
+## Quit
+```
+-----------------------------------
+Thank you for using this program!
+Dont forget to rate us. ( 0 - 10 )
+User or Library Owner ( U = User , L = Library Owner)
+u
+Enter your Username : 
+puduk
+Enter your Rate 
+5
+Goodbye! puduk
+```
 ---
+
 
 ## 🛡 License
 
