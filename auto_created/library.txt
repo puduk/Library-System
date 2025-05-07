@@ -1,5 +1,5 @@
-## 📚 This file is automatically created with your library name.
-## 🛠 You can modify it after signing in to your library account.
+## 📚 This file is automatically will be updated after you created library account.
+## 🛠 All library has their own .txt files for different managements.
 ## ⚠️ THIS IS AN EXAMPLE FILE. NOT REAL DATA.
 
 
