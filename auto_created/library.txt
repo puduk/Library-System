@@ -1,4 +1,7 @@
-## This file will be automaticly updated when you use the app
+## 📚 This file is automatically created with your library name.
+## 🛠 You can modify it after signing in to your library account.
+## ⚠️ THIS IS AN EXAMPLE FILE. NOT REAL DATA.
+
 
 1. Library Name : Solix
 1. Library Password : solix123
