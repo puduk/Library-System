@@ -6,6 +6,8 @@
 
 void buy_menu(Data& u ){
 
+
+
   std::ifstream book_amount(*u.choosen_library_name + ".txt" , std::ios::in );
   if(!book_amount.is_open()){
     std::cout << "File could not be opened " << std::endl;
