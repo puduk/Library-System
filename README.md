@@ -239,6 +239,9 @@ Which library you want to open?
 4 :: for rented history
 5 :: Quit
 -----------------------------
+Your Choice:
+1
+-----------------------------
 Currently Avaliable Books
 1. Book Name : Whispers Between Worlds
 2. Book Name : The Velvet Horizon
@@ -246,6 +249,7 @@ Currently Avaliable Books
 4. Book Name : Dust Over Eden
 5. Book Name : Symphony of Ashes
 6. Book Name : The Oracle’s Silence
+-----------------------------
 Your Choice:
 3
 Purchase Successful!
